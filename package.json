@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://bosTM-code.github.io/eat-n-split",
+  "homepage": "https://bostm-code.github.io/eat-n-split/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
